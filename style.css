@@ -1,0 +1,33 @@
+body {
+  background-image: url('https://wallpaperaccess.com/full/776490.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
+div{ text-align:justify;
+padding:20px
+}
+
+h1 { text-align: center;
+font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+font-size: 250%
+}
+.prob {
+    width:450px;
+    height:1000px; 
+    float: left
+}
+.pea{
+    width:1000px;
+    height:2000px;
+    background-color:rgba(255,255,255,0.7);
+    margin:200px auto
+}
+.zero{
+    width:450px;
+    height:1000px;
+    float:left
+}
+.reos {
+
+}
