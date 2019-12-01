@@ -1,0 +1,19 @@
+.d1 {
+ width:1000px; height:2500px;background-color:rgba(255,255,255,0.7); margin:300px auto;
+}
+.ps1 {
+ font-family:Helvetica;
+ font-size: 2em;
+ text-align: center;
+ padding-top: 50px;
+}
+.ps2 {
+    font-family:Helvetica;
+     padding-left: 20px;
+}
+body {
+	background-image: url('https://wallpaperaccess.com/full/776490.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}

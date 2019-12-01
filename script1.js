@@ -1,0 +1,1 @@
+alert("Loodan, et naudite seda")
