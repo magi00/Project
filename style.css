@@ -1,9 +1,3 @@
-body {
-  background-image: url('https://wallpaperaccess.com/full/776490.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-  }
 div{ text-align:justify;
 padding:20px
 }
@@ -53,13 +47,4 @@ font-size: 250%
 }
 .psp4 {
 	padding-left: 20px;
-}
-.video {
-width: 800px
-height:50px
-margin:30px auto
-}
-.minu{ 
-font-size:1.2em
-padding:50px
 }

@@ -6,11 +6,16 @@ body {
   }
 .blok {
     width:1000px;
-    height:1000px;
+    height:2350px;
     background-color:rgba(255,255,255,0.7);
     margin:200px auto
 }
 h1 { text-align: center;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 font-size: 200%
+}
+.video {
+ width: 560px;
+ height: 315px;
+ padding-left: 200px;
 }
